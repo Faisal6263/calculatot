@@ -362,7 +362,7 @@ footer {
     background-size: 400%;
     border-radius: 10px;
     animation: gradient 8s linear infinite;
-    opacity: 0.3;
+    opacity: 0.05;
 }
 
 @keyframes gradient {
